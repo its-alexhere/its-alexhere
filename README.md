@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Nandana Shibu! 👋
+# Hey, I'm Nandana! 👋
 
 ### Aspiring Software Developer | BCA Student
 
